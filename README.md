@@ -13,6 +13,7 @@ You can view the interactive dashboard here:
 
 ## 📁 Project Structure
 
+```
 blinkit_grocery_sales_analysis_powerbi_excel/
 │
 ├── data/
@@ -23,7 +24,7 @@ blinkit_grocery_sales_analysis_powerbi_excel/
 │ └── dashboard-preview.png
 │
 └── README.md
-
+```
 
 
 ---
