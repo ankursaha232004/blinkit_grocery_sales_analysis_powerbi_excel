@@ -9,7 +9,12 @@ The goal was to understand sales patterns, product performance, outlet behavior,
 You can view the interactive dashboard here:  
 ➡️ **[Click here to see the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDUxNzMzMjMtMDY2Zi00MjlkLTgyZTYtZGYzNmQwMzZiNGQxIiwidCI6IjUwMTliMDA3LWRkZDUtNGIzNS05MjNiLTNmZDcwNzU1OTYyNCJ9)**
 
+
+### Dashboard Preview  
+![Dashboard Preview](images/dashboard-preview.png)
 ---
+
+
 
 ## 📁 Project Structure
 
